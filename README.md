@@ -1,6 +1,6 @@
 # linear-regression
 
-Linear Regression imports data about cricket cirps and temperature, Brain vs. Body weight, and Salery discrimination. With the cricket cirp data the program plots all the data into a scatter plot and graphs the linear regression based on the data points. The brain vs. body weight data does the same thing as the cricket data. And lastly the Salery discrimination data takes in the data for 52 tenure-track professors at a small Midwestern college and shows the data points to see if theres any corrilation between higher paying jobs and genders.
+Linear Regression imports data about cricket chirps and temperature, Brain vs. Body weight, and Salery discrimination. With the cricket chirp data the program plots all the data into a scatter plot and graphs the linear regression based on the data points. The brain vs. body weight data does the same thing as the cricket data. And lastly the Salery discrimination data takes in the data for 52 tenure-track professors at a small Midwestern college and shows the data points to see if theres any corrilation between higher paying jobs and genders.
 
 ## Installation
 
